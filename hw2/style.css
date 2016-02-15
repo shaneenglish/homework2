@@ -1,0 +1,14 @@
+body {
+    background-color: #CADFD5;
+}
+
+h2 {
+    font-family: Helvetica, Sans-serif;
+    text-align: center;
+	}
+li {font-family: Helvetica, Sans-serif;
+    text-align: left
+	margin-top: 0px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 80px;}
